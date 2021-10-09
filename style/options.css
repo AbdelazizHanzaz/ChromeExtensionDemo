@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: rgb(168, 168, 168);
+}
+
+p{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+button{
+    padding: 15px;
+}
+
+
+
+.current{
+    border : 2px;
+
+}
